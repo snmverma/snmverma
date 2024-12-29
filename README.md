@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @snmverma
-- 👀 I’m interested in Data analyst roles
-- 🌱 I’m currently learning coding
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I love coffee so just like Data 
 
